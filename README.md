@@ -2,7 +2,7 @@
 handling missing values for Numerical and categorical data
 
 Missind data are of 3 Types
-a. Missing competely at random
+a. Missing competely at random\n
 b. missing not at random
 c.Missing at random
 
